@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 30px; border-radius: 15px;">
-  <img width="150" src="https://raw.githubusercontent.com/w0rn3zz/assets/main/avatar_placeholder.png" alt="Profile Avatar" style="border-radius: 50%;">
+  <img width="150" src="./avatar.gif" alt="Profile Avatar" style="border-radius: 50%;">
 
   <h1 style="color: #fff; margin-top: 15px;">Hi, I'm Anton</h1>
   <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Enthusiast</p>
