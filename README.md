@@ -23,7 +23,7 @@
   </h3>
 
   <blockquote>
-    <p>"Coffee doesn't help you code, but it's nice to taste." - James Gosling ☕</p>
+    <h4>"Coffee doesn't help you code, but it's nice to taste." - James Gosling ☕</h4>
   </blockquote>
 </div>
 
