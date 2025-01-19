@@ -19,7 +19,7 @@
 <div style="margin: 20px;">
   <h1>👋 About Me</h1>
   <h3 style="font-size: 20px">
-    My name is Anton, and I specialize in backend development. I enjoy building scalable APIs, designing efficient database architectures, and creating bots that make life easier. I started coding two years ago and haven't stopped learning since! My main tools are Python and FastAPI, but I'm always open to experimenting with new technologies.
+    I'm a 17-year-old backend developer who started coding at 16. Over the past year, I've gained experience working with APIs and developing Telegram bots. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
   </h3>
 
   <blockquote>
