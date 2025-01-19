@@ -5,13 +5,8 @@
   <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Enthusiast</p>
 
   <p>
-    <a href="https://t.me/w0rn3zz_dev" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://discord.com/users/564840444916138014" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-  </p>
+  <a href="https://t.me/w0rn3zz_dev" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://discord.com/users/564840444916138014" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
 </div>
 
 ---
