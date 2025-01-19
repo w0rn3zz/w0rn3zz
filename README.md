@@ -18,9 +18,9 @@
 
 <div style="margin: 20px;">
   <h1>👋 About Me</h1>
-  <p style="font-size: 20px">
+  <h3 style="font-size: 20px">
     My name is Anton, and I specialize in backend development. I enjoy building scalable APIs, designing efficient database architectures, and creating bots that make life easier. I started coding two years ago and haven't stopped learning since! My main tools are Python and FastAPI, but I'm always open to experimenting with new technologies.
-  </p>
+  </h3>
 
   <blockquote>
     <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
