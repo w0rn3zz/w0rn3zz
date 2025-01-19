@@ -2,7 +2,7 @@
   <img width="150" src="./avatar.gif" alt="Profile Avatar" style="border-radius: 50%;">
 
   <h1 style="color: #fff; margin-top: 15px;">Hi, I'm Anton</h1>
-  <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Enthusiast</p>
+  <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Developer</p>
 
  <p style="display: flex; gap: 10px;">
   <a href="https://t.me/w0rn3zz_dev" style="text-decoration: none;">
