@@ -17,10 +17,10 @@
 ---
 
 <div style="margin: 20px;">
-  <h2>👋 About Me</h2>
-  <p>
+  <h1>👋 About Me</h1>
+  <h2>
     My name is Anton, and I specialize in backend development. I enjoy building scalable APIs, designing efficient database architectures, and creating bots that make life easier. I started coding two years ago and haven't stopped learning since! My main tools are Python and FastAPI, but I'm always open to experimenting with new technologies.
-  </p>
+  </h2>
 
   <blockquote>
     <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
@@ -45,7 +45,7 @@
 ---
 
 <div style="margin: 20px;">
-  <h2>📈 GitHub Stats</h2>
+  <h1>📈 GitHub Stats</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
@@ -55,7 +55,7 @@
 ---
 
 <div style="margin: 20px;">
-  <h2>✨ Featured Projects</h2>
+  <h1>✨ Featured Projects</h1>
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <a href="https://github.com/w0rn3zz/project-1" style="text-decoration: none;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=w0rn3zz&repo=project-1&theme=tokyonight" alt="Project 1">
