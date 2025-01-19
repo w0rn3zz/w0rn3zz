@@ -23,7 +23,7 @@
   </h3>
 
   <blockquote>
-    <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
+    <p>"Coffee doesn't help you code, but it's nice to taste." - James Gosling ☕</p>
   </blockquote>
 </div>
 
