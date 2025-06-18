@@ -5,7 +5,7 @@
   <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Developer</p>
 
  <p style="display: flex; gap: 10px;">
-  <a href="https://t.me/w0rn3zz_dev" style="text-decoration: none;">
+  <a href="https://t.me/w0rn3zz" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://discord.com/users/564840444916138014" style="text-decoration: none;">
