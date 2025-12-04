@@ -48,8 +48,8 @@
 <div style="margin: 20px;">
   <h1>📈 GitHub Stats</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="width: 48%;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
   </div>
 </div>
 
@@ -59,10 +59,10 @@
   <h1>✨ Featured Projects</h1>
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <a href="https://github.com/w0rn3zz/project-1" style="text-decoration: none;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=w0rn3zz&repo=project-1&theme=tokyonight" alt="Project 1">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=w0rn3zz&repo=project-1&theme=tokyonight" alt="Project 1">
     </a>
     <a href="https://github.com/w0rn3zz/project-2" style="text-decoration: none;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=w0rn3zz&repo=project-2&theme=tokyonight" alt="Project 2">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=w0rn3zz&repo=project-2&theme=tokyonight" alt="Project 2">
     </a>
   </div>
 </div>
