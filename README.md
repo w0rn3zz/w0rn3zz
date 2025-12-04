@@ -52,9 +52,6 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
   </div>
   <div style="margin-top: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=w0rn3zz&theme=tokyonight" alt="GitHub Streak" style="width: 100%;">
-  </div>
-  <div style="margin-top: 20px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=w0rn3zz&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" style="width: 100%;">
   </div>
 </div>
