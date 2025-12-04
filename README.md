@@ -3,7 +3,7 @@
   
   # Hi, I'm Anton 👋
   
-  **Backend Developer | Telegram Bots Developer**
+  **Backend Developer
   
   [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w0rn3zz)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/564840444916138014)
