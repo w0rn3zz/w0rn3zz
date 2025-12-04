@@ -3,7 +3,7 @@
   
   # Hi, I'm Anton 👋
   
-  **Backend Developer
+  **Backend Developer | Telegram Bots Developer**
   
   [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w0rn3zz)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/564840444916138014)
@@ -41,13 +41,34 @@ I'm an 18-year-old backend developer who started coding at 16. Over the past yea
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  <!-- Вариант 1: GitHub Readme Stats (основной) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+  <!-- Вариант 2: Альтернативный хост для GitHub Stats -->
+  <!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&langs_count=8&theme=tokyonight"/> -->
+  
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w0rn3zz&theme=tokyonight)
+  <!-- GitHub Streak Stats -->
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=w0rn3zz&theme=tokyonight&hide_border=true)
+  
+  <!-- Альтернатива Streak Stats -->
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w0rn3zz&theme=tokyonight&hide_border=true) -->
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Activity Graph -->
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w0rn3zz&theme=tokyo-night&hide_border=true&area=true)
+  
+  <!-- Альтернатива Activity Graph -->
+  <!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w0rn3zz&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
 </div>
 
