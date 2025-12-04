@@ -1,113 +1,68 @@
-<div align="center">
-  <img width="150" src="https://i.imgur.com/your-avatar.gif" alt="Profile Avatar">
-  
-  # Hi, I'm Anton 👋
-  
-  **Backend Developer | Telegram Bots Developer**
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w0rn3zz)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/564840444916138014)
-  
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 30px; border-radius: 15px;">
+  <img width="150" src="./avatar.gif" alt="Profile Avatar" style="border-radius: 50%;">
+
+  <h1 style="color: #fff; margin-top: 15px;">Hi, I'm Anton</h1>
+  <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Developer</p>
+
+ <p style="display: flex; gap: 10px;">
+  <a href="https://t.me/w0rn3zz" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/564840444916138014" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div style="margin: 20px;">
+  <h1>👋 About Me</h1>
+  <h3 style="font-size: 20px">
+    I'm a 18-year-old backend developer who started coding at 16. Over the past year, I've gained experience working with APIs and developing Telegram bots. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
+  </h3>
 
-I'm an 18-year-old backend developer who started coding at 16. Over the past year, I've gained experience working with APIs and developing Telegram bots. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
-
-> *"Coffee doesn't help you code, but it's nice to taste."* - James Gosling ☕
-
----
-
-## 🛠️ My Tech Stack
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+  <blockquote>
+    <h4>"Coffee doesn't help you code, but it's nice to taste." - James Gosling ☕</h4>
+  </blockquote>
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <!-- Вариант 1: GitHub Readme Stats (основной) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
-  <!-- Вариант 2: Альтернативный хост для GitHub Stats -->
-  <!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&langs_count=8&theme=tokyonight"/> -->
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=w0rn3zz&theme=tokyonight&hide_border=true)
-  
-  <!-- Альтернатива Streak Stats -->
-  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w0rn3zz&theme=tokyonight&hide_border=true) -->
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Activity Graph -->
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w0rn3zz&theme=tokyo-night&hide_border=true&area=true)
-  
-  <!-- Альтернатива Activity Graph -->
-  <!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w0rn3zz&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-  
+<div style="margin: 20px;">
+  <h1>🛠️ My Tech Stack</h1>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </div>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=w0rn3zz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-  
+<div style="margin: 20px;">
+  <h1>📈 GitHub Stats</h1>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
+  </div>
 </div>
 
 ---
 
-## 💼 What I'm Working On
-
-- 🔭 Building scalable backend systems
-- 🤖 Developing intelligent Telegram bots
-- 🌱 Learning new frameworks and best practices
-- 💡 Contributing to open-source projects
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project, need help with backend development, or just want to chat about tech!
-
-<div align="center">
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/w0rn3zz)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/564840444916138014)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=w0rn3zz&color=blueviolet&style=for-the-badge)
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<div style="margin: 20px;">
+  <h1>✨ Featured Projects</h1>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <a href="https://github.com/w0rn3zz/project-1" style="text-decoration: none;">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=w0rn3zz&repo=project-1&theme=tokyonight" alt="Project 1">
+    </a>
+    <a href="https://github.com/w0rn3zz/project-2" style="text-decoration: none;">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=w0rn3zz&repo=project-2&theme=tokyonight" alt="Project 2">
+    </a>
+  </div>
 </div>
