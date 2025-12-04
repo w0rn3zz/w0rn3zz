@@ -1,3 +1,4 @@
+
 <div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 30px; border-radius: 15px;">
   <img width="150" src="./avatar.gif" alt="Profile Avatar" style="border-radius: 50%;">
 
@@ -48,10 +49,21 @@
 <div style="margin: 20px;">
   <h1>📈 GitHub Stats</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" style="width: 48%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
   </div>
-  <div style="margin-top: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=w0rn3zz&theme=tokyonight" alt="GitHub Streak" style="width: 100%;">
+</div>
+
+---
+
+<div style="margin: 20px;">
+  <h1>✨ Featured Projects</h1>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <a href="https://github.com/w0rn3zz/project-1" style="text-decoration: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=w0rn3zz&repo=project-1&theme=tokyonight" alt="Project 1">
+    </a>
+    <a href="https://github.com/w0rn3zz/project-2" style="text-decoration: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=w0rn3zz&repo=project-2&theme=tokyonight" alt="Project 2">
+    </a>
   </div>
 </div>
