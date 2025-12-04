@@ -59,10 +59,10 @@
 <div style="margin: 20px;">
   <h1>✨ Featured Projects</h1>
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <a href="https://github.com/w0rn3zz/project-1" style="text-decoration: none;">
+    <a href="[https://github.com/w0rn3zz/project-1](https://github.com/w0rn3zz/complit_agent_kpfu.git)" style="text-decoration: none;">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=w0rn3zz&repo=project-1&theme=tokyonight" alt="Project 1">
     </a>
-    <a href="https://github.com/w0rn3zz/project-2" style="text-decoration: none;">
+    <a href="[https://github.com/w0rn3zz/project-2](https://github.com/w0rn3zz/queen_code_bot.git)" style="text-decoration: none;">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=w0rn3zz&repo=project-2&theme=tokyonight" alt="Project 2">
     </a>
   </div>
