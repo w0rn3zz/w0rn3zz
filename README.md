@@ -48,8 +48,8 @@
 <div style="margin: 20px;">
   <h1>📈 GitHub Stats</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=w0rn3zz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rn3zz&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 48%;">
   </div>
   <div style="margin-top: 20px;">
     <img src="https://streak-stats.demolab.com/?user=w0rn3zz&theme=tokyonight" alt="GitHub Streak" style="width: 100%;">
