@@ -2,7 +2,7 @@
   <img width="150" src="./avatar.gif" alt="Profile Avatar" style="border-radius: 50%;">
 
   <h1 style="color: #fff; margin-top: 15px;">Hi, I'm Anton</h1>
-  <p style="color: #ddd; font-size: 18px;">Backend Developer | Telegram Bots Developer</p>
+  <p style="color: #ddd; font-size: 18px;">Backend Developer</p>
 
  <p style="display: flex; gap: 10px;">
   <a href="https://t.me/w0rn3zz" style="text-decoration: none;">
@@ -19,7 +19,7 @@
 <div style="margin: 20px;">
   <h1>👋 About Me</h1>
   <h3 style="font-size: 20px">
-    I'm a 18-year-old backend developer who started coding at 16. Over the past year, I've gained experience working with APIs and developing Telegram bots. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
+    I'm a 18-year-old backend developer who started coding at 16. Over the past year, I've gained experience working with APIs. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
   </h3>
 
   <blockquote>
