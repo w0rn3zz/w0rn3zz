@@ -19,7 +19,7 @@
 <div style="margin: 20px;">
   <h1>👋 About Me</h1>
   <h3 style="font-size: 20px">
-    I'm a 18-year-old backend developer. Over the past year, I've gained experience working with APIs. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
+    I'm a 19-year-old backend developer. Over the past year, I've gained experience working with APIs. I'm passionate about backend development and always looking for new challenges. I enjoy bringing ideas to life and am always eager to learn more.
   </h3>
 
   <blockquote>
